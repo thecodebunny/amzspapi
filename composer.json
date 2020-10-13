@@ -25,8 +25,7 @@
     },
     "autoload": {
         "psr-4": {
-            "Thecodebunny\\AmzSpApi\\": "src",
-            "Thecodebunny\\AmzSpApi\\": "lib"
+            "Thecodebunny\\AmzSpApi\\": "src"
         }
     },
     "autoload-dev": {
