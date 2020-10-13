@@ -5,7 +5,7 @@
  * PHP version 5
  *
  * @category Class
- * @package  Swagger\Client
+ * @package  Thecodebunny\AmzSpApi
  * @author   Swagger Codegen team
  * @link     https://github.com/swagger-api/swagger-codegen
  */
@@ -36,7 +36,7 @@ use \Thecodebunny\AmzSpApi\ObjectSerializer;
  *
  * @category Class
  * @description A list of events related to the seller&#x27;s Pay with Amazon account.
- * @package  Swagger\Client
+ * @package  Thecodebunny\AmzSpApi
  * @author   Swagger Codegen team
  * @link     https://github.com/swagger-api/swagger-codegen
  */

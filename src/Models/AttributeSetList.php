@@ -5,7 +5,7 @@
  * PHP version 5
  *
  * @category Class
- * @package  Swagger\Client
+ * @package  Thecodebunny\AmzSpApi
  * @author   Swagger Codegen team
  * @link     https://github.com/swagger-api/swagger-codegen
  */
@@ -36,7 +36,7 @@ use \Thecodebunny\AmzSpApi\ObjectSerializer;
  *
  * @category Class
  * @description A list of product attributes if they are applicable to the product that is returned.
- * @package  Swagger\Client
+ * @package  Thecodebunny\AmzSpApi
  * @author   Swagger Codegen team
  * @link     https://github.com/swagger-api/swagger-codegen
  */

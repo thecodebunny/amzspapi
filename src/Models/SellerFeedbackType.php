@@ -5,7 +5,7 @@
  * PHP version 5
  *
  * @category Class
- * @package  Swagger\Client
+ * @package  Thecodebunny\AmzSpApi
  * @author   Swagger Codegen team
  * @link     https://github.com/swagger-api/swagger-codegen
  */
@@ -36,7 +36,7 @@ use \Thecodebunny\AmzSpApi\ObjectSerializer;
  *
  * @category Class
  * @description Information about the seller&#x27;s feedback, including the percentage of positive feedback, and the total number of ratings received.
- * @package  Swagger\Client
+ * @package  Thecodebunny\AmzSpApi
  * @author   Swagger Codegen team
  * @link     https://github.com/swagger-api/swagger-codegen
  */

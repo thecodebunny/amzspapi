@@ -3,7 +3,11 @@
     "description": "",
     "keywords": [
         "thecodebunny",
-        "amz-sp-api"
+        "amz-sp-api",
+        "api",
+        "amazon",
+        "selling-partner",
+        "sp-api"
     ],
     "homepage": "https://github.com/thecodebunny/amz-sp-api",
     "license": "MIT",
